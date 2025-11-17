@@ -18,9 +18,6 @@ I build efficient backend systems, automate tasks, and enjoy solving real-world 
 ### ⭐ General Stats  
 ![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jay-Parmar&show_icons=true&theme=tokyonight)
 
-### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=Jay-Parmar&theme=tokyonight)
-
 ### 📈 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Parmar&layout=compact&theme=tokyonight)
 
@@ -28,16 +25,6 @@ I build efficient backend systems, automate tasks, and enjoy solving real-world 
 
 # 🏆 GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Jay-Parmar&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
-
-# 🐍 Contribution Snake  
-![Snake Animation](https://raw.githubusercontent.com/Jay-Parmar/Jay-Parmar/output/github-contribution-grid-snake.svg)
-
----
-
-# 📉 Contribution Activity Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jay-Parmar&theme=tokyo-night)
 
 ---
 
