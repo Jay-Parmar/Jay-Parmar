@@ -1,7 +1,7 @@
-# 👋 Hi, I'm **Jay Parmar**
+# <div align="center"> Hi, I'm **Jay Parmar** </div>
 
-### 💻 Python Developer | Backend Developer | Software Engineer  
-I build efficient backend systems, automate tasks, and enjoy solving real-world problems with clean code.
+### <div align="center">💻 Python Developer | Backend Developer | Software Engineer</div>
+<div align="center">I build efficient backend systems, automate tasks, and enjoy solving real-world problems with clean code.</div>
 
 ---
 
