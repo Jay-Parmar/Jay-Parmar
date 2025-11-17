@@ -60,5 +60,5 @@
 
 ⭐ *If you like my work, consider starring my repositories or connecting on LinkedIn!*
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Niko-Cloud&&style=flat-square" align="center" />
+    <img src="https://komarev.com/ghpvc/?username=Jay-Parmar&&style=flat-square" align="center" />
 </div> 
