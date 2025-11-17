@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm **Jay Parmar**
 
-<!--
-**Jay-Parmar/Jay-Parmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python Developer | Backend Developer | Software Engineer  
+I build efficient backend systems, automate tasks, and enjoy solving real-world problems with clean code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔧 Skilled in **Python**, **Django**, **FastAPI**, **Flask**, **REST APIs**
+- 🧠 Currently learning **Cloud Deployment** & **Advanced Backend Architecture**
+- 🤝 Open to collaborating on **backend** and **open-source** projects
+- ✨ Love writing clean, scalable, and maintainable code
+
+---
+
+# 📊 GitHub Stats
+
+### ⭐ General Stats  
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jay-Parmar&show_icons=true&theme=tokyonight)
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=Jay-Parmar&theme=tokyonight)
+
+### 📈 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Parmar&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jay-Parmar&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+# 🐍 Contribution Snake  
+![Snake Animation](https://raw.githubusercontent.com/Jay-Parmar/Jay-Parmar/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📉 Contribution Activity Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jay-Parmar&theme=tokyo-night)
+
+---
+
+# 🔧 Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### **Frameworks**
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+# 📫 Connect with Me
+- 🔗 **LinkedIn:** *https://www.linkedin.com/in/jayparmar789/*
+- 📧 **Email:** *jayparmar789@gmail.com*
+- 🌐 **Gitlab:** *https://gitlab.com/jayparmar789*
+
+---
+
+⭐ *If you like my work, consider starring my repositories or connecting on LinkedIn!*
