@@ -1,8 +1,30 @@
-# Jay Parmar
+<div align="center">
 
-I'm a software engineer in New Delhi. At ESSI Integrated Technologies, I design backend systems and manage AWS infrastructure. Moving releases to Docker and GitLab CI/CD gave our team **70% faster updates**. Previously, I built Django APIs and tuned PostgreSQL queries for a recruitment platform serving **200k+ daily users**.
+# Hi, I'm Jay Parmar 👋
 
-[LinkedIn](https://www.linkedin.com/in/jayparmar789/) · [Email](mailto:jayparmar789@gmail.com) · [GitLab](https://gitlab.com/jayparmar789) · [Portfolio source](https://github.com/Jay-Parmar/JayParmar)
+**Software engineer · New Delhi, India**
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://img.shields.io/badge/System_design_%C2%B7_Databases_%C2%B7_AWS-245C8A?style=for-the-badge" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=79C0FF&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=42&amp;lines=Backend+services+and+APIs;System+design+and+databases;AWS+infrastructure+and+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=42&amp;lines=Backend+services+and+APIs;System+design+and+databases;AWS+infrastructure+and+DevOps" alt="Backend services and APIs, system design and databases, AWS infrastructure and DevOps" />
+</picture>
+
+<p>
+  <a href="https://www.linkedin.com/in/jayparmar789/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jayparmar789@gmail.com"><img src="https://img.shields.io/badge/Email-B5362D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Jay" /></a>
+  <a href="https://gitlab.com/jayparmar789"><img src="https://img.shields.io/badge/GitLab-A33A12?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" /></a>
+  <a href="https://github.com/Jay-Parmar/JayParmar"><img src="https://img.shields.io/badge/Portfolio_source-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Portfolio source" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Jay-Parmar&amp;style=for-the-badge&amp;color=0E75B6&amp;label=Profile+views" alt="Profile views" />
+</p>
+
+<p><a href="#selected-projects">Projects</a> · <a href="#tech-stack">Tech stack</a> · <a href="#github-activity">GitHub activity</a></p>
+
+</div>
+
+## About me
+
+At ESSI Integrated Technologies, I design backend systems and manage AWS infrastructure. Moving releases to Docker and GitLab CI/CD gave our team **70% faster updates**. Previously, I built Django APIs and tuned PostgreSQL queries for a recruitment platform serving **200k+ daily users**.
 
 ## Selected projects
 
@@ -35,3 +57,102 @@ ThatsMyFace helps friends find photos of themselves after a group event. In this
 FoodHub gives a café one order board for Zomato and Swiggy using the notifications their Android apps already send. It saves the raw events locally and rebuilds order cards from them in Kotlin. If an order ID arrives on a later update, the board links the first alert to the same card.
 
 [Source](https://github.com/Jay-Parmar/FoodHub) · [Order grouping tests](https://github.com/Jay-Parmar/FoodHub/blob/main/app/src/test/java/com/foodhub/sniffer/OrderBoardTest.kt)
+
+<details>
+<summary>See the PocketDisco chat and ThatsMyFace gallery</summary>
+
+<p align="center">
+  <a href="https://github.com/Jay-Parmar/PocketDisco/blob/fb44e2d6edf7f3d96d4d1b86e1b251402b5c3932/docs/walkthrough/PocketDisco-Walkthrough.pdf"><img src="https://raw.githubusercontent.com/Jay-Parmar/PocketDisco/fb44e2d6edf7f3d96d4d1b86e1b251402b5c3932/docs/walkthrough/assets/room.png" height="310" alt="PocketDisco private room with two chat messages" /></a>
+  <a href="https://github.com/Jay-Parmar/ThatsMyFace/blob/1e0c3517cc6d751a8a2aa60fed8eac71c1a46349/docs/ThatsMyFace-Walkthrough.pdf"><img src="https://raw.githubusercontent.com/Jay-Parmar/ThatsMyFace/1e0c3517cc6d751a8a2aa60fed8eac71c1a46349/docs/walkthrough/screenshots/grid.png" height="310" alt="ThatsMyFace test gallery with two requests awaiting the owner's approval" /></a>
+</p>
+
+</details>
+
+## Tech stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Kotlin-6847BB?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+</p>
+
+**Frameworks and APIs**
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-00796B?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/React_Native-185873?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-17507A?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Redis-A62B26?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-386883?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+</p>
+
+**Cloud and delivery**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-176DA5?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-A33A12?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab CI/CD" />
+  <img src="https://img.shields.io/badge/Git-AF3425?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Parmar&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Parmar&amp;theme=github" alt="Jay's public repositories and contributions over the past year" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jay-Parmar&amp;theme=github-dark-blue&amp;hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=Jay-Parmar&amp;theme=default&amp;hide_border=true" alt="Jay's total contributions, current streak, and longest streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jay-Parmar&amp;theme=github-compact&amp;hide_border=true&amp;area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-Parmar&amp;theme=github-light&amp;hide_border=true&amp;area=true" alt="Jay's daily GitHub contributions over the past month" width="100%" />
+  </picture>
+</p>
+
+<details>
+<summary>More stats, top languages, and trophies</summary>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jay-Parmar&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jay-Parmar&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="GitHub totals for stars, commits, pull requests, and issues" width="390" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Parmar&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Parmar&amp;layout=compact&amp;theme=default&amp;hide_border=true" alt="Most-used languages across Jay's public repositories" width="285" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=Jay-Parmar&amp;theme=onedark&amp;no-frame=true&amp;row=1&amp;column=6" />
+    <img src="https://trophy.ryglcloud.net/?username=Jay-Parmar&amp;theme=flat&amp;no-frame=true&amp;row=1&amp;column=6" alt="Jay's profile trophies for contributions and repositories" width="660" />
+  </picture>
+</p>
+
+</details>
+
+<p align="center"><em>Have a backend or open-source project in mind? <a href="mailto:jayparmar789@gmail.com">Get in touch.</a></em></p>
