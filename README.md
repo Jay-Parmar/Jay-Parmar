@@ -34,9 +34,9 @@ I'm a full-stack developer at ESSI Integrated Technologies. I build React interf
 
 ### hirejutsu
 
-Each morning, hirejutsu ranks job openings against your résumé and explains its picks. Python adapters normalize listings from 15 applicant tracking systems into a local SQLite database. The app marks a posting closed only after a successful scan of the company's board confirms the opening has disappeared.
+hirejutsu ranks openings from 629 company career pages across 15 hiring systems. Its local web app shows why a job fits your résumé and lets you track your application. Python adapters feed a SQLite database. The app marks a posting closed only after a successful scan confirms it has disappeared from the company's board.
 
-[Source](https://github.com/Jay-Parmar/hirejutsu) · [Example daily run](https://github.com/Jay-Parmar/hirejutsu/blob/main/docs/playthrough.md)
+[Source](https://github.com/Jay-Parmar/hirejutsu) · [App architecture](https://github.com/Jay-Parmar/hirejutsu/blob/main/docs/app.md) · [Example daily run](https://github.com/Jay-Parmar/hirejutsu/blob/main/docs/playthrough.md)
 
 ### PocketDisco
 
