@@ -2,12 +2,12 @@
 
 # Hi, I'm Jay Parmar 👋
 
-**Software engineer · New Delhi, India**
+**Software Developer · New Delhi, India**
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://img.shields.io/badge/System_design_%C2%B7_Databases_%C2%B7_AWS-245C8A?style=for-the-badge" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=79C0FF&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=42&amp;lines=Backend+services+and+APIs;System+design+and+databases;AWS+infrastructure+and+DevOps" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=42&amp;lines=Backend+services+and+APIs;System+design+and+databases;AWS+infrastructure+and+DevOps" alt="Backend services and APIs, system design and databases, AWS infrastructure and DevOps" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://img.shields.io/badge/React_%C2%B7_APIs_%C2%B7_AWS-245C8A?style=for-the-badge" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=79C0FF&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=42&amp;lines=React+interfaces;API+and+database+design;AWS+infrastructure+and+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=42&amp;lines=React+interfaces;API+and+database+design;AWS+infrastructure+and+DevOps" alt="React interfaces, API and database design, AWS infrastructure and DevOps" />
 </picture>
 
 <p>
@@ -83,6 +83,7 @@ FoodHub gives a café one order board for Zomato and Swiggy using the notificati
 **Frameworks and APIs**
 
 <p>
+  <img src="https://img.shields.io/badge/React-185873?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/FastAPI-00796B?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
@@ -155,4 +156,4 @@ FoodHub gives a café one order board for Zomato and Swiggy using the notificati
 
 </details>
 
-<p align="center"><em>Have a backend or open-source project in mind? <a href="mailto:jayparmar789@gmail.com">Get in touch.</a></em></p>
+<p align="center"><em>Have a project in mind? <a href="mailto:jayparmar789@gmail.com">Get in touch.</a></em></p>
