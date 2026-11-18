@@ -44,6 +44,12 @@ PocketDisco is an Android alpha for listening parties. Friends can join a privat
 
 [App and API](https://github.com/Jay-Parmar/PocketDisco/tree/feature/mobile-ui-walkthrough) · [Room protocol](https://github.com/Jay-Parmar/PocketDisco/blob/fb44e2d6edf7f3d96d4d1b86e1b251402b5c3932/docs/08-mobile-alpha.md) · [Android walkthrough (PDF)](https://github.com/Jay-Parmar/PocketDisco/blob/fb44e2d6edf7f3d96d4d1b86e1b251402b5c3932/docs/walkthrough/PocketDisco-Walkthrough.pdf)
 
+### Poker Planner
+
+Teams estimate Jira tickets together on an AngularJS voting board. Django Channels broadcasts votes over WebSockets and sends earlier votes to teammates who join mid-round. The room manager can then save the agreed estimate back to Jira.
+
+[Voting interface](https://github.com/Jay-Parmar/PokerPlannerFE/blob/main/app/modules/voting-board/votingController.js) · [Django session handler](https://github.com/Jay-Parmar/PokerPlannerBE/blob/main/PokerPlanner/apps/pokerboard/consumers.py)
+
 ### Hold My Files
 
 Guests on the same Wi-Fi can download files from an Android phone using a browser and a PIN. The owner picks which folders to share. A foreground service runs the read-only Ktor server, so downloads can continue while the owner uses another app. Stopping the server invalidates every guest session and file link.
