@@ -24,7 +24,11 @@
 
 ## About me
 
-At ESSI Integrated Technologies, I design backend systems and manage AWS infrastructure. Moving releases to Docker and GitLab CI/CD gave our team **70% faster updates**. Previously, I built Django APIs and tuned PostgreSQL queries for a recruitment platform serving **200k+ daily users**.
+I'm a full-stack developer at ESSI Integrated Technologies. I build React interfaces, design APIs and database schemas, and run services on AWS.
+
+- I load-tested a multi-server video platform with 100 operators and 70 live viewers. Moving health checks off the request path cut live-view stalls from **up to 19 seconds to about 1 second**.
+- I moved releases to Docker and GitLab CI/CD for **70% faster updates** and built offline installers for sites without internet access.
+- At Josh Technology Group, I built Django REST endpoints and tuned PostgreSQL queries for a recruitment platform serving **200k+ daily users**.
 
 ## Selected projects
 
